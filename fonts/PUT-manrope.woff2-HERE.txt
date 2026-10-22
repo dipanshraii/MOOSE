@@ -1,0 +1,1 @@
+Put Manrope variable font here as manrope.woff2 (weights 500-800). Without it the app uses the system font.
